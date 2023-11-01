@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:clickable="true">
+
+    <RelativeLayout
+        android:id="@+id/visible_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/now_playing_bottom_bar_main"
+            tools:listitem="@layout/song_item"
+            android:animateLayoutChanges="false"/>
+
+
+        <include
+            android:id="@id/now_playing_bottom_bar_main"
+            layout="@layout/bottom_bar"/>
+
+        <RelativeLayout
+            android:id="@+id/noSongs"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/msg1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/you_don_t_have_any_songs_in_the_music_folder_at_the_moment_nadd_songs_to_continue_enjoying_the_music"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:layout_below="@id/msg1"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_centerHorizontal="true"
+                android:text="@string/need_help"/>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/loading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <ProgressBar
+                android:id="@+id/progress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/progress"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="Loading Downloaded Songs from Music and Audio Folders"
+                android:textColor="#ffffff" />
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".fragment.AlbumTracksFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/tracks"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/now_playing_bottom_bar_main"
+        tools:listitem="@layout/row_custom_mainscreen_adapter"/>
+
+    <include
+        android:id="@+id/now_playing_bottom_bar_main"
+        layout="@layout/bottom_bar"/>
+
+</RelativeLayout>

@@ -1,0 +1,1746 @@
+{
+	 "app_config": [{
+            "adNetwork": "AdMob",
+            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+            "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+            "new_package_name" : "null",
+            "send_update" : false
+        }
+
+    ],
+    "auto_complete_songs": [
+         {
+            "album_cover_url": "https://lite-images-i.scdn.co/image/ab67616d0000b2738e67a512f460fac205174e90",
+            "artist_name": "Beyonce"
+        },
+        {
+            "album_cover_url": "https://static.qobuz.com/images/covers/nc/de/snyeawcypdenc_600.jpg",
+            "artist_name": "Pop Smoke"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/hN2QljiyA1coWnfklwGFF1lnd2c=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11992888-1526160547-7703.jpeg.jpg",
+            "artist_name": "French Montana"
+        },
+        {
+            "album_cover_url": "https://media.pitchfork.com/photos/60b53bddb6c076ed126cc6dc/1:1/w_320/THE%20VOICE%20OF%20THE%20HEROES-PA%20SYMBOL.jpg",
+            "artist_name": "Lil Baby"
+        },
+        {
+            "album_cover_url": "https://www.fan-lexikon.de/musik/wiz-khalifa/bilder/l/wiz-khalifa-blacc-hollywood-album-cover-17377.jpg",
+            "artist_name": "Wiz Khalifa"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/Q5HarZoS2W44WBmX4d_0BVk1gGk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-250771-1371031354-1165.jpeg.jpg",
+            "artist_name": "Eminem"
+        },
+        {
+            "album_cover_url": "https://images.genius.com/5aad3a10ffe4204d52337369a98090d5.926x926x1.jpg",
+            "artist_name": "Travis scott"
+        },
+        {
+            "album_cover_url": "http://thatgrapejuice.net/wp-content/uploads/2011/11/tha-carter-4.jpg",
+            "artist_name": "Lil Wayne"
+        },
+        {
+            "album_cover_url": "https://media1.jpc.de/image/w412/front/0/0602517340978.jpg",
+            "artist_name": "DMX"
+        },
+        {
+            "album_cover_url": "https://thatgrapejuice.net/wp-content/uploads/2020/10/ciara-cardi-b-halloween-1-tgj.jpg",
+            "artist_name": "Cardi B"
+        },
+        {
+            "album_cover_url": "https://kbx-redefined.s3.us-east-2.amazonaws.com/wp-content/uploads/2015/06/27113904/asap-rocky.jpeg",
+            "artist_name": "A$AP Rocky"
+        },
+        {
+            "album_cover_url": "https://blog.discogs.com/wp-content/uploads/2019/10/kendrick-lamar-good-kid-maad-city.jpg",
+            "artist_name": "Kendrick Lamar"
+        },
+        {
+            "album_cover_url": "https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/future-the-wizrd-cover-680x680_qzda9e/future-new-album-documentary-the-wizrd-cover-art.jpg",
+            "artist_name": "Future"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/ddgOn2pTeUFlyWD_pjIyMJLLdEY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3836255-1346318740-3731.jpeg.jpg",
+            "artist_name": "Busta Rhymes"
+        },
+    
+        {
+            "album_cover_url": "https://i.redd.it/avtttn1jo9o71.jpg",
+            "artist_name": "YoungBoy"
+        },
+        {
+            "album_cover_url": "https://i.pinimg.com/474x/c4/30/58/c430587a97a45e9ccfb27abba5b9de2e.jpg",
+            "artist_name": "DaBaby"
+        },
+        {
+            "album_cover_url": "https://bloximages.newyork1.vip.townnews.com/miamitimesonline.com/content/tncms/assets/v3/editorial/1/bc/1bc1d402-39e4-11eb-ad41-b3a1971f0dd3/5fd0696a91583.image.jpg?resize=400%2C283",
+            "artist_name": "Roddy Ricch"
+        },
+        {
+            "album_cover_url": "http://bisonbeat.net/wp-content/uploads/2018/11/kanye.jpg",
+            "artist_name": "Kanye West"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/artworks-000843667537-tetiyx-t500x500.jpg",
+            "artist_name": "Nipsey hussle"
+        },
+        {
+            "album_cover_url": "https://pbs.twimg.com/media/EJNxOhdWsAAzM98?format=jpg&name=large",
+            "artist_name": "Nicki Minaj"
+        },
+        {
+            "album_cover_url": "https://i.redd.it/iriauuehcej51.jpg",
+            "artist_name": "6ix9ine"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/81XGcTIr9vL._SS500_.jpg",
+            "artist_name": "Young M.A"
+        },
+        {
+            "album_cover_url": "https://preview.redd.it/7aimavsmr3r41.png?auto=webp&s=a761716d81fe9be28b8ee7fa30212048d465c298",
+            "artist_name": "XXXTENTACION"
+        },
+        {
+            "album_cover_url": "https://preview.redd.it/z2z878ap3ws51.jpg?auto=webp&s=c2292b7fbfecd16d7e0d5e0187b4dacf18984a7f",
+            "artist_name": "Juice WRLD"
+        },
+        {
+            "album_cover_url": "https://ae01.alicdn.com/kf/HTB1Jzo9AiCYBuNkSnaVq6AMsVXao/S2603-Album-Cover-Swimming-Mac-Miller-Rapper-Star-Rap-Wall-Art-Painting-Print-On-Silk-Canvas.jpg",
+            "artist_name": "Mac Miller"
+        },
+        {
+            "album_cover_url": "https://e.snmc.io/i/1200/s/03083f8fa3f1c766a620360120f1d50c/7292235",
+            "artist_name": "Snoop Dogg"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4",
+            "artist_name": "JAY-Z"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTQ3Mzg1Mzg5MzI4NDQzMDYz/tupac_shakur_photo_by_steve_eichner_archive_photos_getty_83928439.jpg",
+            "artist_name": "2pac"
+        },
+        {
+            "album_cover_url": "https://yt3.ggpht.com/ytc/AKedOLSmUyQ6J-wRrSkdeBqSgHKWGuQ6lt667K4N2EiYeg=s900-c-k-c0x00ffffff-no-rj",
+            "artist_name": "Nas"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3Mzg2NDU3NDMzMDU2OTUx/biggie_smalls_photo_by_clarence_davis_new_york_daily_news_archive_getty_97348258.jpg",
+            "artist_name": "The Notorious B.I.G."
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a",
+            "artist_name": "J. Cole"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc2NDMxMTgwODY3MTgz/gettyimages-1203069033.jpg",
+            "artist_name": "50 Cent"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/170254ebdd747f4e7045df1cae8f11a42dc1a547",
+            "artist_name": "Dr. Dre"
+        },
+        {
+            "album_cover_url": "https://lite-images-i.scdn.co/image/ab67706c0000da84a892e051a5cc15f25c238235",
+            "artist_name": "Gunna"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a",
+            "artist_name": "Wu-Tang Clan"
+        },
+        {
+            "album_cover_url": "https://i.guim.co.uk/img/media/67eec8ab7e348a4152ff3f0ea2a3fc1060f38e28/493_44_4711_2827/master/4711.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=589f464f44bbf828e4defbc819fabcae",
+            "artist_name": "Ice Cube"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732350e31bc346a6c20e9de166",
+            "artist_name": "OutKast"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-WOVW3h6yHBGW5hfm-X67XPA-t500x500.jpg",
+            "artist_name": "Migos"
+        },
+        {
+            "album_cover_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Rakim-03-mika.jpg",
+            "artist_name": "Rakim"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTg0Mzk3NTM4NDM3MTEzMzIy/gettyimages-1189841420.jpg",
+            "artist_name": "Megan Thee Stallion"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc",
+            "artist_name": "T.I."
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb879835ea4e3a0f0b8cf1c7b4",
+            "artist_name": "Lil Uzi Vert"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/RlrJM57MwNjSn6PJG152BYEY2wE=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14198760-1583689856-4390.jpeg.jpg",
+            "artist_name": "LL Cool J"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9",
+            "artist_name": "Andre 3000"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebbc1085cf5d08b85cd1836ca2",
+            "artist_name": "Lil Tjay"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3NTI2NjI2OTExOTg3MzI4/missy_elliot_photo_by_the_gap_getty_images_entertainment_getty_2370945.jpg",
+            "artist_name": "Missy Elliott"
+        },
+        {
+            "album_cover_url": "https://i.guim.co.uk/img/media/5e7208c9093cec5403df677b3079317721cd7bc2/214_252_1443_865/master/1443.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b7e18216801954ba16bde30e3164cd16",
+            "artist_name": "Chris Brown"
+        },
+        {
+            "album_cover_url": "https://charts-static.billboard.com/img/2016/11/playboi-carti-ca2-344x344.jpg",
+            "artist_name": "Playboi Carti"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3NTI2OTc4MDI1NTYzNjMw/common_photo_by_maarten_de_boer_getty_images_entertainment_getty_461469844.jpg",
+            "artist_name": "Common"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb89dccc0a0b3d818c8d5fb711",
+            "artist_name": "Big Sean"
+        },
+        {
+            "album_cover_url": "https://www.feelepa.com/wp-content/uploads/2020/09/Nelly.jpg",
+            "artist_name": "Nelly"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb6a61d3a33451c301dbb8edb3",
+            "artist_name": "Lil Durk"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/b55bef1b5b69603732302c50627483ef72bc5550",
+            "artist_name": "Ghostface Killah"
+        },
+        {
+            "album_cover_url": "https://media.gq.com/photos/5b1dcb529634a3652118e844/1:1/w_2500,h_2500,c_limit/GW20180200909_COLOR_16_9-PUSHA-T.jpg",
+            "artist_name": "Pusha T"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb8278b782cbb5a3963db88ada",
+            "artist_name": "Tyler, the Creator"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3NTI2Nzg2MzYyNjQ4MDQ2/lauryn_hill_photo_by_anthony_barboza_archive_photos_getty_114465492.jpg",
+            "artist_name": "Lauryn Hill"
+        },
+
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/XDS_2iuzovcNRUnBSpEDm1Z-fTwiAPGoPEog-mepfSO0c8uQXiBf3AgnqDThnG1xsO1q_MsswJFr44oyPrMfkWKjQQ",
+            "artist_name": "Elton John"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-000187966327-fjujig-t240x240.jpg",
+            "artist_name": "Michael Jackson"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c",
+            "artist_name": "Elvis Presley"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc1NjQ5MjI4Mzg0MjQ1/gettyimages-628779680.jpg",
+            "artist_name": "Madonna"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
+            "artist_name": "Whitney Houston"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273bd5c3e63997944154f1713dd",
+            "artist_name": "Mariah Carey"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6772690000dd22f79ca05dcc1581c712bf3658",
+            "artist_name": "Bob Dylan"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/37c7875911b1d8195b05d40061a86bd01908a0d9",
+            "artist_name": "Stevie Wonder"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebd0cb49906c4f8080a5813d95",
+            "artist_name": "Bruce Springsteen"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/_fnSo5pFwGb7QJZL6iOTYkHwSJ9yvA16yKZRHUTDodzKTu3kUFu9apc69J8SlP-Q2HUymWy4TNxK4B9mUhubl01d",
+            "artist_name": "Taylor Swift"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d",
+            "artist_name": "Aretha Franklin"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/36b4bd204c7803d0ec334b9952184e79787fbaf6",
+            "artist_name": "Carlos Santana"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736fdebec51a7d1857829f6f87",
+            "artist_name": "Eric Clapton"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf78341630056283b6d617753",
+            "artist_name": "Barbra Streisand"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf04cbe533ce2d55373f49b2b",
+            "artist_name": "Shania Twain"
+        },
+       
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTY4MDI4MzczODU4MTMzMjY1/2018_20180809-gb2105_3_10_rgb.jpg",
+            "artist_name": "Garth Brooks"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb1d3e6633d1da408fc103a9ec",
+            "artist_name": "Rod Stewart"
+        },
+       
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb03bf2fe26e397122faa3d323",
+            "artist_name": "Paul McCartney"
+        },
+       
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTIwNjA4NjMzOTU4MzM2MDEy/kenny-rogers-9462275-1-402.jpg",
+            "artist_name": "Kenny Rogers"
+        },
+       
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
+            "artist_name": "Adele"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwMTgyMTE1MDA5MTc2Njk4/gettyimages-504665292.jpg",
+            "artist_name": "James Taylor"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNTI2NTM5OTc5MzY3NTEy/gettyimages-1007814256.jpg",
+            "artist_name": "David Bowie"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwNTMwNjYzNjg0ODQyODU2/tina-turner.jpg",
+            "artist_name": "Tina Turner "
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNDM1NjE4NzQyOTM2NzI2/gettyimages-140955206.jpg",
+            "artist_name": "Marvin Gaye"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27328db834368898aa448ea6200",
+            "artist_name": "Phil Collins"
+        },
+        
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebd98e2abb8fbebc2e2340f178",
+            "artist_name": "Bob Seger"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwMDQzMDg4Nzk2ODUzNTky/gettyimages-50787441-copy.jpg",
+            "artist_name": "Ray Charles"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb357f2a87bf92208767a48e7e",
+            "artist_name": "Celine Dion"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNTI5MDQ3NDM0OTYyMDA4/gettyimages-517322650.jpg",
+            "artist_name": "Johnny Cash"
+        },
+
+        {
+            "album_cover_url": "https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2020/09/Alicia-praying-69194_SP1_200107_AK_MZ_SHOT_08_030_a.jpg",
+            "artist_name": "Alicia Keys"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730a6fe42cbfd9266046f46574",
+            "artist_name": "Linda Ronstadt"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/artworks-000128740802-b34v2u-t500x500.jpg",
+            "artist_name": "Kenny G"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb77f28b2422efbabde324291c",
+            "artist_name": "George Strait"
+        },
+        {
+            "album_cover_url": "https://pbs.twimg.com/profile_images/1327230935180390400/TKd4S6yf_400x400.jpg",
+            "artist_name": "Tim McGraw"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/pW7Jv2o8g0bkXFi11hrumm_N0e7KAf5pc5bawoSdD44uTLAYQi-Eeh1t1HileeiMx-9pXN6hQROW-OBEzWQWcEs2",
+            "artist_name": "Justin Bieber"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTg1MjM3Nzg1OTc0Njc5MTg3/gettyimages-1307116331.jpg",
+            "artist_name": "Bruno Mars"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9e46a78c5cd2f7a8e7669980",
+            "artist_name": "Drake"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMzQ0MTQ5NjI5NzQwOTA4/george-michael-306600-2-raw.jpg",
+            "artist_name": "George Michael"
+        },
+       
+        {
+            "album_cover_url": "https://cdn.britannica.com/18/136518-050-CD0E49C6/The-Beatles-Ringo-Starr-Paul-McCartney-George.jpg",
+            "artist_name": "The Beatles"
+        },
+       
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+            "artist_name": "Ariana Grande"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb92df88d91dc5a20ed4859963",
+            "artist_name": "Shawn Mendes"
+        },
+       
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273039b95b846d039d78a2ca6a1",
+            "artist_name": "Prince"
+        },
+        {
+            "album_cover_url": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587514348_2154.jpg",
+            "artist_name": "Dua Lipa"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+            "artist_name": "Billie Eilish"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
+            "artist_name": "Whitney Houston"
+        },
+      
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf2ac13247b26025069dbdc4e",
+            "artist_name": "Britney Spears"
+        },
+      
+        {
+            "album_cover_url": "https://i.pinimg.com/originals/02/a2/8c/02a28c162c2f75671c64a905139cbfcc.png",
+            "artist_name": "Harry Styles"
+        },
+        {
+            "album_cover_url": "https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1300/5/1305309.jpg",
+            "artist_name": "Miley Cyrus"
+        },
+        {
+            "album_cover_url": "https://static01.nyt.com/images/2021/10/31/arts/31abba1/31abba1-mediumSquareAt3X.jpg",
+            "artist_name": "ABBA"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b",
+            "artist_name": "Maroon 5"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd",
+            "artist_name": "Rihanna"
+        },
+    
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9d3f9efc8e0030306e583cef",
+            "artist_name": "Justin Timberlake"
+        },
+        {
+            "album_cover_url": "https://media.allure.com/photos/5f42721d23bef1617fd1311c/1:1/w_1750,h_1750,c_limit/selena-gomez-rare-lede.jpg",
+            "artist_name": "Selena Gomez"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb357f2a87bf92208767a48e7e",
+            "artist_name": "Celine Dion"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb68ab782284f90f0685619bb7",
+            "artist_name": "Janet Jackson"
+        },
+        {
+            "album_cover_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/halsey-attends-the-2018-american-music-awards-at-microsoft-news-photo-1611768515.?crop=1xw:0.66667xh;center,top&resize=640:*",
+            "artist_name": "Halsey"
+        },
+        {
+            "album_cover_url": "https://cdns-images.dzcdn.net/images/artist/4099da261a61666f58bb3598f0c4c37f/500x500.jpg",
+            "artist_name": "Ava Max"
+        },
+        {
+            "album_cover_url": "https://st1.bollywoodlife.com/wp-content/uploads/2021/06/BTS-BTS-interview.png",
+            "artist_name": "BTS"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c",
+            "artist_name": "Elvis Presley"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMTgyMjU4NjIyMTQ1ODgw/gettyimages-469873772.jpg",
+            "artist_name": "Jennifer Lopez"
+        },
+        {
+            "album_cover_url": "https://pbs.twimg.com/profile_images/1456087873199951874/ysrTwAYq_400x400.jpg",
+            "artist_name": "Demi Lovato"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w1200.jpg",
+            "artist_name": "Post Malone"
+        },
+        {
+            "album_cover_url": "https://www.glamour.pl/media/cache/default_medium/uploads/media/default/0004/65/lana-del-rey-zareczyla-sie-wiedzieliscie-ze-ma-nowego-chlopaka.jpeg",
+            "artist_name": "Lana Del Rey"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb8885ead433869bbbe56dd2da",
+            "artist_name": "Olivia Rodrigo"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebe5a4f8ec6996364b2f824fcb",
+            "artist_name": "Sam Smith"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090",
+            "artist_name": "Jason Derulo"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/93a/189/9cca78be3b5d9b05c2a701179449e48027-the-bee-gees.rsquare.w700.jpg",
+            "artist_name": "Bee Gees"
+        },
+        {
+            "album_cover_url": "https://media.vanityfair.com/photos/5e82316b52ad2c00089f5009/1:1/w_1521,h_1521,c_limit/Backstreet-Boys-Coronavirus.jpg",
+            "artist_name": "Backstreet Boys"
+        },
+        {
+            "album_cover_url": "https://i.guim.co.uk/img/media/733f8d96ae5603ed6189855b32684edc46aba932/0_543_1535_920/master/1535.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=046c12be3f539c1de8c2db3d337615b0",
+            "artist_name": "Khalid"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb6ec3754d5db2e333b9434c75",
+            "artist_name": "P!nk"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb1d3e6633d1da408fc103a9ec",
+            "artist_name": "Rod Stewart"
+        },
+
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/_fnSo5pFwGb7QJZL6iOTYkHwSJ9yvA16yKZRHUTDodzKTu3kUFu9apc69J8SlP-Q2HUymWy4TNxK4B9mUhubl01d",
+            "artist_name": "Taylor Swift"
+        },
+       
+        {
+            "album_cover_url": "https://bzglfiles.s3.amazonaws.com/u/337381/7b4e35b810b8d18b7382a60bafb5e485adf66704/original/ds5uxfmh-400x400.jpg",
+            "artist_name": "The Weeknd"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTM5ODkxNzYyODU1NDIwOTM4/ed-sheeran-gettyimages-494227430_1600jpg.jpg",
+            "artist_name": "Ed Sheeran"
+        },
+        {
+            "album_cover_url": "https://st1.bollywoodlife.com/wp-content/uploads/2021/06/BTS-BTS-interview.png",
+            "artist_name": "BTS"
+        },
+        
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU0OTkwNDUxOTQ5MDUzNDQ3/kanye-west-attends-the-christian-dior-show-as-part-of-the-paris-fashion-week-womenswear-fall-winter-2015-2016-on-march-6-2015-in-paris-france-photo-by-dominique-charriau-wireimage-square.jpg",
+            "artist_name": "Ye"
+        },
+    
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9d1c017f36dc2f651d7f1685",
+            "artist_name": "Wet Leg"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970",
+            "artist_name": "Elton John"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNDU4ODM0NjUxNzg0MzQy/gettyimages-1183642471-copy.jpg",
+            "artist_name": "Carrie Underwood"
+        },
+        {
+            "album_cover_url": "https://lite-images-i.scdn.co/image/ab67616d0000b273ef6afa1bd957abb59f792b4e",
+            "artist_name": "Pom Pom Squad"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-JeZfqirMgzo5m1TX-DuFvMQ-t500x500.jpg",
+            "artist_name": "Glass Animals"
+        },
+    
+        {
+            "album_cover_url": "https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1300/5/1305309.jpg",
+            "artist_name": "Miley Cyrus"
+        },
+        {
+            "album_cover_url": "https://static.stereogum.com/uploads/2020/11/ACDC-1605114470.jpg",
+            "artist_name": "AC/DC"
+        },
+        {
+            "album_cover_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fleetwood_Mac_Billboard_1977.jpg/640px-Fleetwood_Mac_Billboard_1977.jpg",
+            "artist_name": "Fleetwood Mac"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgxMDg1MDI3MTkzMzMzMDk2/gettyimages-1127409044.jpg",
+            "artist_name": "Lady Gaga"
+        },
+      
+        {
+            "album_cover_url": "https://www.glamour.pl/media/cache/default_medium/uploads/media/default/0004/65/lana-del-rey-zareczyla-sie-wiedzieliscie-ze-ma-nowego-chlopaka.jpeg",
+            "artist_name": "Lana Del Rey"
+        },
+        {
+            "album_cover_url": "https://photos.bandsintown.com/thumb/11096993.jpeg",
+            "artist_name": "Dry Cleaning"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb6eec77fbe764edd81e34f37a",
+            "artist_name": "Francis of Delirium"
+        },
+        {
+            "album_cover_url": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515030_7806.jpg",
+            "artist_name": "Squid"
+        },
+        {
+            "album_cover_url": "https://static01.nyt.com/images/2021/10/31/arts/31abba1/31abba1-mediumSquareAt3X.jpg",
+            "artist_name": "ABBA"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733ee542b8243a4772cd6190d5",
+            "artist_name": "Kodak Black"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734931057cec0d2e85751f8e48",
+            "artist_name": "NCT 127"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb39f37a34b404169fdca52dc8",
+            "artist_name": "Arctic Monkeys"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-000618724824-op1kk8-t500x500.jpg",
+            "artist_name": "Panic! At The Disco"
+        },
+        {
+            "album_cover_url": "https://cdn.albumoftheyear.org/artists/sq/the-lumineers_1460726524.jpg",
+            "artist_name": "The Lumineers"
+        },
+        {
+            "album_cover_url": "https://lastfm.freetls.fastly.net/i/u/770x0/97427bc6f9f709a18ca762c47d7d27ec.jpg",
+            "artist_name": "twenty one pilots"
+        },
+        {
+            "album_cover_url": "https://www.passionweiss.com/wp-content/uploads/2018/09/bruiser-brigade.jpg",
+            "artist_name": "Bruiser Brigade"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/b89/aa3/80914e6cd1129e48b6fcde411073e058a6-04-adam-levine-tattoos.rsquare.w700.jpg",
+            "artist_name": "Adam Levine"
+        },
+    
+        {
+            "album_cover_url": "https://s3.amazonaws.com/bit-photos/large/11012613.jpeg",
+            "artist_name": "Meet Me at the Altar"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/5fedxGeMA70fBEPVL610UaKUCHmv_1hPsngN3bGpYM4US9tguJqARyfxWY9VYf4SNbTkvyU1sKlRsLa9vgZrz-jU",
+            "artist_name": "The Snuts"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/df3/10d/a295c21793e7653dc739de0f5755f9f362-mariah-carey.rsquare.w1200.jpg",
+            "artist_name": "Mariah Carey"
+        },
+        {
+            "album_cover_url": "https://e.snmc.io/i/600/s/533b42a4d2869ae27f5ce6c0ad48646e/8886040/loose-articles-up-the-disco-buses-cover-art.png",
+            "artist_name": "Loose Articles"
+        },
+        {
+            "album_cover_url": "https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2020/12/ONEFOUR.jpg",
+            "artist_name": "Onefour"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/saWQ8Q4sBKvN0Er9izwj_DKLeXoTtYN-wUCBYPSYBFn0DhoKKtxfKBblZJKvN5EIwUQHaSX91NanSjIvMl3LoTtn",
+            "artist_name": "Bad Boy Chiller Crew"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733519e507fc1144e4aa913beb",
+            "artist_name": "Florida Georgia Line"
+        },
+        {
+            "album_cover_url": "https://yt3.ggpht.com/rIEDV4fQKzMLE3wgIzHcqabX5rc418TqabPyU3yuJEJhAsprl-3ui7fly__WgOpts0BboHpXZPc=s900-c-k-c0x00ffffff-no-rj",
+            "artist_name": "Tyler, the Creator"
+        },
+        
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
+            "artist_name": "Guns N' Roses"
+        },
+        {
+            "album_cover_url": "https://media.gq.com/photos/58a1ab034a441ac67f7645ab/1:1/w_2316,h_2316,c_limit/Grammy_GQ_Portraits-migos-pari.jpeg",
+            "artist_name": "Migos"
+        },
+        {
+            "album_cover_url": "https://yt3.ggpht.com/nYIS3JN4C6HIKP7k-RdHwlkZWX8zSgt0L-DdQBZZPJeu_3P3Z4wvfDEJ4Meu-R6EPW56I7sb=s900-c-k-c0x00ffffff-no-rj",
+            "artist_name": "Dan + Shay"
+        },
+        {
+            "album_cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70pl-gS2EtMU-DnmtJKeTZwudFxbWZKAYBFcKiWo_4UbCEgOxkBcRi_hgIfNxLxvEZD0&usqp=CAU",
+            "artist_name": "AJR"
+        },
+        {
+            "album_cover_url": "https://yhstars.com/wp-content/uploads/2020/10/Blaq-Diamond-e1602591635855.jpeg",
+            "artist_name": "Blaq Diamond"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTU1NDc3Nzc4ODAyNjgxODE1/-katy-perry-attends-the-chanel-haute-couture-fallwinter-2017-2018-show-as-part-of-haute-couture-paris-fashion-week-on-july-4-2017-in-paris-france-photo-by-pascal-le-segretaingetty-images-square.jpg",
+            "artist_name": "Katy Perry"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/N-w7O3YJZNEd1MTGuZ05Ganf884=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8290242-1458737327-5237.jpeg.jpg",
+            "artist_name": "Linkin Park"
+        },
+        {
+            "album_cover_url": "https://d8mkdcmng3.imgix.net/39c1/home-and-garden-home-decor-signs-and-wall-art-nirvana-smiley-12-inch-album-cover-framed-print.jpg?auto=format&bg=0FFF&fit=fill&h=600&q=100&w=600&s=3c4c9eb861366f3c70cd4347d0e02b93",
+            "artist_name": "Nirvana"
+        },
+         {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5",
+            "artist_name": "Foo Fighters"
+        },
+        {
+            "album_cover_url": "https://redhotchilipeppers.com/images/rhcp_neon_logo.jpg",
+            "artist_name": "Red Hot Chili Peppers"
+        },
+        {
+            "album_cover_url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO4nBpII-default.jpg",
+            "artist_name": "Green Day"
+        },
+        {
+            "album_cover_url": "https://img.cdandlp.com/2018/06/imgL/119198578.jpg",
+            "artist_name": "Slash"
+        },
+        {
+            "album_cover_url": "https://ravesfromthegrave.com/wp-content/uploads/2020/04/coldplay-a-head.jpg",
+            "artist_name": "Coldplay"
+        },
+        {
+            "album_cover_url": "https://i.discogs.com/krrjlhQF6g9K7lehpF2TjAvfPZnff9qhsbT1-flE93c/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI5/Mi0xMjAzMzQyMTc1/LmpwZWc.jpeg",
+            "artist_name": "Muse"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/71v4dVBuYAL._SL1400_.jpg",
+            "artist_name": "Greta Van Fleet"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/71lpRSBjPGL._SL1500_.jpg",
+            "artist_name": "Jack White"
+        },
+         {
+            "album_cover_url": "https://i.pinimg.com/originals/2e/9d/cb/2e9dcb9d5287b8ef7bfb2b3ce209744f.jpg",
+            "artist_name": "Twenty One Pilots"
+        },
+         {
+            "album_cover_url": "https://i.pinimg.com/originals/b2/cd/de/b2cdde1f5a72452e6b8d3a9eef3a42a1.jpg",
+            "artist_name": "Imagine Dragons"
+        },
+         {
+            "album_cover_url": "https://m.media-amazon.com/images/I/61pAyFJQ43L._SL1400_.jpg",
+            "artist_name": "Weezer"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/51B35o-V+FL._SL1200_.jpg",
+            "artist_name": "Fall Out Boy"
+        },
+        {
+            "album_cover_url": "https://townsquare.media/site/366/files/2020/10/clip_image001.jpeg?w=480&q=75",
+            "artist_name": "Stone Temple Pilots"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/81fNQtNDw8L._SX355_.jpg",
+            "artist_name": "My Chemical Romance"
+        }
+
+    ],
+
+"Best_Rock_Bands": [
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9a43b87b50cd3d03544bb3e5",
+            "artist_name": "Foo Fighters"
+        },
+        {
+            "album_cover_url": "https://redhotchilipeppers.com/images/rhcp_neon_logo.jpg",
+            "artist_name": "Red Hot Chili Peppers"
+        },
+        {
+            "album_cover_url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO4nBpII-default.jpg",
+            "artist_name": "Green Day"
+        },
+        {
+            "album_cover_url": "https://img.cdandlp.com/2018/06/imgL/119198578.jpg",
+            "artist_name": "Slash"
+        },
+        {
+            "album_cover_url": "https://ravesfromthegrave.com/wp-content/uploads/2020/04/coldplay-a-head.jpg",
+            "artist_name": "Coldplay"
+        },
+        {
+            "album_cover_url": "https://i.discogs.com/krrjlhQF6g9K7lehpF2TjAvfPZnff9qhsbT1-flE93c/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTI5/Mi0xMjAzMzQyMTc1/LmpwZWc.jpeg",
+            "artist_name": "Muse"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/71v4dVBuYAL._SL1400_.jpg",
+            "artist_name": "Greta Van Fleet"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/71lpRSBjPGL._SL1500_.jpg",
+            "artist_name": "Jack White"
+        },
+         {
+            "album_cover_url": "https://i.pinimg.com/originals/2e/9d/cb/2e9dcb9d5287b8ef7bfb2b3ce209744f.jpg",
+            "artist_name": "Twenty One Pilots"
+        },
+         {
+            "album_cover_url": "https://i.pinimg.com/originals/b2/cd/de/b2cdde1f5a72452e6b8d3a9eef3a42a1.jpg",
+            "artist_name": "Imagine Dragons"
+        },
+         {
+            "album_cover_url": "https://m.media-amazon.com/images/I/61pAyFJQ43L._SL1400_.jpg",
+            "artist_name": "Weezer"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/51B35o-V+FL._SL1200_.jpg",
+            "artist_name": "Fall Out Boy"
+        },
+        {
+            "album_cover_url": "https://townsquare.media/site/366/files/2020/10/clip_image001.jpeg?w=480&q=75",
+            "artist_name": "Stone Temple Pilots"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/81fNQtNDw8L._SX355_.jpg",
+            "artist_name": "My Chemical Romance"
+        }
+    ],
+
+    "top_rappers": [
+
+        {
+            "album_cover_url": "https://static.qobuz.com/images/covers/nc/de/snyeawcypdenc_600.jpg",
+            "artist_name": "Pop Smoke"
+        },
+        {
+            "album_cover_url": "https://images.genius.com/5ae27f65511b22280120d4b8ed16974d.960x960x1.jpg",
+            "artist_name": "Drake"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/hN2QljiyA1coWnfklwGFF1lnd2c=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11992888-1526160547-7703.jpeg.jpg",
+            "artist_name": "French Montana"
+        },
+        {
+            "album_cover_url": "https://media.pitchfork.com/photos/60b53bddb6c076ed126cc6dc/1:1/w_320/THE%20VOICE%20OF%20THE%20HEROES-PA%20SYMBOL.jpg",
+            "artist_name": "Lil Baby"
+        },
+        {
+            "album_cover_url": "https://www.fan-lexikon.de/musik/wiz-khalifa/bilder/l/wiz-khalifa-blacc-hollywood-album-cover-17377.jpg",
+            "artist_name": "Wiz Khalifa"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/Q5HarZoS2W44WBmX4d_0BVk1gGk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-250771-1371031354-1165.jpeg.jpg",
+            "artist_name": "Eminem"
+        },
+        {
+            "album_cover_url": "https://images.genius.com/5aad3a10ffe4204d52337369a98090d5.926x926x1.jpg",
+            "artist_name": "Travis scott"
+        },
+        {
+            "album_cover_url": "http://thatgrapejuice.net/wp-content/uploads/2011/11/tha-carter-4.jpg",
+            "artist_name": "Lil Wayne"
+        },
+        {
+            "album_cover_url": "https://media1.jpc.de/image/w412/front/0/0602517340978.jpg",
+            "artist_name": "DMX"
+        },
+        {
+            "album_cover_url": "https://thatgrapejuice.net/wp-content/uploads/2020/10/ciara-cardi-b-halloween-1-tgj.jpg",
+            "artist_name": "Cardi B"
+        },
+        {
+            "album_cover_url": "https://kbx-redefined.s3.us-east-2.amazonaws.com/wp-content/uploads/2015/06/27113904/asap-rocky.jpeg",
+            "artist_name": "A$AP Rocky"
+        },
+        {
+            "album_cover_url": "https://blog.discogs.com/wp-content/uploads/2019/10/kendrick-lamar-good-kid-maad-city.jpg",
+            "artist_name": "Kendrick Lamar"
+        },
+        {
+            "album_cover_url": "https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/future-the-wizrd-cover-680x680_qzda9e/future-new-album-documentary-the-wizrd-cover-art.jpg",
+            "artist_name": "Future"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/ddgOn2pTeUFlyWD_pjIyMJLLdEY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3836255-1346318740-3731.jpeg.jpg",
+            "artist_name": "Busta Rhymes"
+        },
+        {
+            "album_cover_url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6d430e100164235.5f03337e370dc.png",
+            "artist_name": "Post Malone"
+        },
+        {
+            "album_cover_url": "https://i.redd.it/avtttn1jo9o71.jpg",
+            "artist_name": "YoungBoy"
+        },
+        {
+            "album_cover_url": "https://i.pinimg.com/474x/c4/30/58/c430587a97a45e9ccfb27abba5b9de2e.jpg",
+            "artist_name": "DaBaby"
+        },
+        {
+            "album_cover_url": "https://bloximages.newyork1.vip.townnews.com/miamitimesonline.com/content/tncms/assets/v3/editorial/1/bc/1bc1d402-39e4-11eb-ad41-b3a1971f0dd3/5fd0696a91583.image.jpg?resize=400%2C283",
+            "artist_name": "Roddy Ricch"
+        },
+        {
+            "album_cover_url": "http://bisonbeat.net/wp-content/uploads/2018/11/kanye.jpg",
+            "artist_name": "Kanye West"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/artworks-000843667537-tetiyx-t500x500.jpg",
+            "artist_name": "Nipsey hussle"
+        },
+        {
+            "album_cover_url": "https://pbs.twimg.com/media/EJNxOhdWsAAzM98?format=jpg&name=large",
+            "artist_name": "Nicki Minaj"
+        },
+        {
+            "album_cover_url": "https://i.redd.it/iriauuehcej51.jpg",
+            "artist_name": "6ix9ine"
+        },
+        {
+            "album_cover_url": "https://m.media-amazon.com/images/I/81XGcTIr9vL._SS500_.jpg",
+            "artist_name": "Young M.A"
+        },
+        {
+            "album_cover_url": "https://preview.redd.it/7aimavsmr3r41.png?auto=webp&s=a761716d81fe9be28b8ee7fa30212048d465c298",
+            "artist_name": "XXXTENTACION"
+        },
+        {
+            "album_cover_url": "https://preview.redd.it/z2z878ap3ws51.jpg?auto=webp&s=c2292b7fbfecd16d7e0d5e0187b4dacf18984a7f",
+            "artist_name": "Juice WRLD"
+        },
+        {
+            "album_cover_url": "https://ae01.alicdn.com/kf/HTB1Jzo9AiCYBuNkSnaVq6AMsVXao/S2603-Album-Cover-Swimming-Mac-Miller-Rapper-Star-Rap-Wall-Art-Painting-Print-On-Silk-Canvas.jpg",
+            "artist_name": "Mac Miller"
+        },
+        {
+            "album_cover_url": "https://e.snmc.io/i/1200/s/03083f8fa3f1c766a620360120f1d50c/7292235",
+            "artist_name": "Snoop Dogg"
+        },
+       
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTQ3Mzg1Mzg5MzI4NDQzMDYz/tupac_shakur_photo_by_steve_eichner_archive_photos_getty_83928439.jpg",
+            "artist_name": "2pac"
+        },
+        {
+            "album_cover_url": "https://yt3.ggpht.com/ytc/AKedOLSmUyQ6J-wRrSkdeBqSgHKWGuQ6lt667K4N2EiYeg=s900-c-k-c0x00ffffff-no-rj",
+            "artist_name": "Nas"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3Mzg2NDU3NDMzMDU2OTUx/biggie_smalls_photo_by_clarence_davis_new_york_daily_news_archive_getty_97348258.jpg",
+            "artist_name": "The Notorious B.I.G."
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a",
+            "artist_name": "J. Cole"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc2NDMxMTgwODY3MTgz/gettyimages-1203069033.jpg",
+            "artist_name": "50 Cent"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/170254ebdd747f4e7045df1cae8f11a42dc1a547",
+            "artist_name": "Dr. Dre"
+        },
+        {
+            "album_cover_url": "https://lite-images-i.scdn.co/image/ab67706c0000da84a892e051a5cc15f25c238235",
+            "artist_name": "Gunna"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a",
+            "artist_name": "Wu-Tang Clan"
+        },
+        {
+            "album_cover_url": "https://i.guim.co.uk/img/media/67eec8ab7e348a4152ff3f0ea2a3fc1060f38e28/493_44_4711_2827/master/4711.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=589f464f44bbf828e4defbc819fabcae",
+            "artist_name": "Ice Cube"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2732350e31bc346a6c20e9de166",
+            "artist_name": "OutKast"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-WOVW3h6yHBGW5hfm-X67XPA-t500x500.jpg",
+            "artist_name": "Migos"
+        },
+        {
+            "album_cover_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Rakim-03-mika.jpg",
+            "artist_name": "Rakim"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTg0Mzk3NTM4NDM3MTEzMzIy/gettyimages-1189841420.jpg",
+            "artist_name": "Megan Thee Stallion"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc",
+            "artist_name": "T.I."
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb879835ea4e3a0f0b8cf1c7b4",
+            "artist_name": "Lil Uzi Vert"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/RlrJM57MwNjSn6PJG152BYEY2wE=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14198760-1583689856-4390.jpeg.jpg",
+            "artist_name": "LL Cool J"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/5c8d57d92825466637905f0d4219064cb39333e9",
+            "artist_name": "Andre 3000"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebbc1085cf5d08b85cd1836ca2",
+            "artist_name": "Lil Tjay"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3NTI2NjI2OTExOTg3MzI4/missy_elliot_photo_by_the_gap_getty_images_entertainment_getty_2370945.jpg",
+            "artist_name": "Missy Elliott"
+        },
+        {
+            "album_cover_url": "https://i.guim.co.uk/img/media/5e7208c9093cec5403df677b3079317721cd7bc2/214_252_1443_865/master/1443.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b7e18216801954ba16bde30e3164cd16",
+            "artist_name": "Chris Brown"
+        },
+        {
+            "album_cover_url": "https://charts-static.billboard.com/img/2016/11/playboi-carti-ca2-344x344.jpg",
+            "artist_name": "Playboi Carti"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3NTI2OTc4MDI1NTYzNjMw/common_photo_by_maarten_de_boer_getty_images_entertainment_getty_461469844.jpg",
+            "artist_name": "Common"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb89dccc0a0b3d818c8d5fb711",
+            "artist_name": "Big Sean"
+        },
+        {
+            "album_cover_url": "https://www.feelepa.com/wp-content/uploads/2020/09/Nelly.jpg",
+            "artist_name": "Nelly"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb6a61d3a33451c301dbb8edb3",
+            "artist_name": "Lil Durk"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/b55bef1b5b69603732302c50627483ef72bc5550",
+            "artist_name": "Ghostface Killah"
+        },
+        {
+            "album_cover_url": "https://media.gq.com/photos/5b1dcb529634a3652118e844/1:1/w_2500,h_2500,c_limit/GW20180200909_COLOR_16_9-PUSHA-T.jpg",
+            "artist_name": "Pusha T"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb8278b782cbb5a3963db88ada",
+            "artist_name": "Tyler, the Creator"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTQ3NTI2Nzg2MzYyNjQ4MDQ2/lauryn_hill_photo_by_anthony_barboza_archive_photos_getty_114465492.jpg",
+            "artist_name": "Lauryn Hill"
+        }
+
+    ],
+    "popular_artists": [
+    
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-000187966327-fjujig-t240x240.jpg",
+            "artist_name": "Michael Jackson"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c",
+            "artist_name": "Elvis Presley"
+        },
+        
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
+            "artist_name": "Whitney Houston"
+        },
+    
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6772690000dd22f79ca05dcc1581c712bf3658",
+            "artist_name": "Bob Dylan"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/37c7875911b1d8195b05d40061a86bd01908a0d9",
+            "artist_name": "Stevie Wonder"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebd0cb49906c4f8080a5813d95",
+            "artist_name": "Bruce Springsteen"
+        },
+      
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d",
+            "artist_name": "Aretha Franklin"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/36b4bd204c7803d0ec334b9952184e79787fbaf6",
+            "artist_name": "Carlos Santana"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2736fdebec51a7d1857829f6f87",
+            "artist_name": "Eric Clapton"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf78341630056283b6d617753",
+            "artist_name": "Barbra Streisand"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf04cbe533ce2d55373f49b2b",
+            "artist_name": "Shania Twain"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4",
+            "artist_name": "JAY-Z"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTY4MDI4MzczODU4MTMzMjY1/2018_20180809-gb2105_3_10_rgb.jpg",
+            "artist_name": "Garth Brooks"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb1d3e6633d1da408fc103a9ec",
+            "artist_name": "Rod Stewart"
+        },
+        
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb03bf2fe26e397122faa3d323",
+            "artist_name": "Paul McCartney"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf2ac13247b26025069dbdc4e",
+            "artist_name": "Britney Spears"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTIwNjA4NjMzOTU4MzM2MDEy/kenny-rogers-9462275-1-402.jpg",
+            "artist_name": "Kenny Rogers"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/e92cf49011e4c26f736cd479b0b64cb08f1b52c6",
+            "artist_name": "2pac"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273039b95b846d039d78a2ca6a1",
+            "artist_name": "Prince"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17",
+            "artist_name": "Adele"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwMTgyMTE1MDA5MTc2Njk4/gettyimages-504665292.jpg",
+            "artist_name": "James Taylor"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNTI2NTM5OTc5MzY3NTEy/gettyimages-1007814256.jpg",
+            "artist_name": "David Bowie"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb68ab782284f90f0685619bb7",
+            "artist_name": "Janet Jackson"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwNTMwNjYzNjg0ODQyODU2/tina-turner.jpg",
+            "artist_name": "Tina Turner "
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNDM1NjE4NzQyOTM2NzI2/gettyimages-140955206.jpg",
+            "artist_name": "Marvin Gaye"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27328db834368898aa448ea6200",
+            "artist_name": "Phil Collins"
+        },
+        
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebd98e2abb8fbebc2e2340f178",
+            "artist_name": "Bob Seger"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwMDQzMDg4Nzk2ODUzNTky/gettyimages-50787441-copy.jpg",
+            "artist_name": "Ray Charles"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb357f2a87bf92208767a48e7e",
+            "artist_name": "Celine Dion"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNTI5MDQ3NDM0OTYyMDA4/gettyimages-517322650.jpg",
+            "artist_name": "Johnny Cash"
+        },
+
+        {
+            "album_cover_url": "https://cdn.smehost.net/2020sonymusiccouk-ukprod/wp-content/uploads/2020/09/Alicia-praying-69194_SP1_200107_AK_MZ_SHOT_08_030_a.jpg",
+            "artist_name": "Alicia Keys"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2730a6fe42cbfd9266046f46574",
+            "artist_name": "Linda Ronstadt"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/artworks-000128740802-b34v2u-t500x500.jpg",
+            "artist_name": "Kenny G"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb77f28b2422efbabde324291c",
+            "artist_name": "George Strait"
+        },
+        {
+            "album_cover_url": "https://pbs.twimg.com/profile_images/1327230935180390400/TKd4S6yf_400x400.jpg",
+            "artist_name": "Tim McGraw"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/pW7Jv2o8g0bkXFi11hrumm_N0e7KAf5pc5bawoSdD44uTLAYQi-Eeh1t1HileeiMx-9pXN6hQROW-OBEzWQWcEs2",
+            "artist_name": "Justin Bieber"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTg1MjM3Nzg1OTc0Njc5MTg3/gettyimages-1307116331.jpg",
+            "artist_name": "Bruno Mars"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9e46a78c5cd2f7a8e7669980",
+            "artist_name": "Drake"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMzQ0MTQ5NjI5NzQwOTA4/george-michael-306600-2-raw.jpg",
+            "artist_name": "George Michael"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb749ba770a33230206f8fe159",
+            "artist_name": "Lady Gaga"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTM5ODkxNzYyODU1NDIwOTM4/ed-sheeran-gettyimages-494227430_1600jpg.jpg",
+            "artist_name": "Ed Sheeran"
+        }
+    ],
+
+    "top_pop_artists": [{
+            "album_cover_url": "https://lh3.googleusercontent.com/_fnSo5pFwGb7QJZL6iOTYkHwSJ9yvA16yKZRHUTDodzKTu3kUFu9apc69J8SlP-Q2HUymWy4TNxK4B9mUhubl01d",
+            "artist_name": "Taylor Swift"
+        },
+
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTM5ODkxNzYyODU1NDIwOTM4/ed-sheeran-gettyimages-494227430_1600jpg.jpg",
+            "artist_name": "Ed Sheeran"
+        },
+        {
+            "album_cover_url": "https://cdn.britannica.com/18/136518-050-CD0E49C6/The-Beatles-Ringo-Starr-Paul-McCartney-George.jpg",
+            "artist_name": "The Beatles"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+            "artist_name": "Bruno Mars"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTU1NDc3Nzc4ODAyNjgxODE1/-katy-perry-attends-the-chanel-haute-couture-fallwinter-2017-2018-show-as-part-of-haute-couture-paris-fashion-week-on-july-4-2017-in-paris-france-photo-by-pascal-le-segretaingetty-images-square.jpg",
+            "artist_name": "Katy Perry"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/pW7Jv2o8g0bkXFi11hrumm_N0e7KAf5pc5bawoSdD44uTLAYQi-Eeh1t1HileeiMx-9pXN6hQROW-OBEzWQWcEs2",
+            "artist_name": "Justin Bieber"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-000187966327-fjujig-t240x240.jpg",
+            "artist_name": "Michael Jackson"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd",
+            "artist_name": "Rihanna"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970",
+            "artist_name": "Elton John"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+            "artist_name": "Ariana Grande"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb92df88d91dc5a20ed4859963",
+            "artist_name": "Shawn Mendes"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgxMDg1MDI3MTkzMzMzMDk2/gettyimages-1127409044.jpg",
+            "artist_name": "Lady Gaga"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b273039b95b846d039d78a2ca6a1",
+            "artist_name": "Prince"
+        },
+        {
+            "album_cover_url": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587514348_2154.jpg",
+            "artist_name": "Dua Lipa"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+            "artist_name": "Billie Eilish"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51",
+            "artist_name": "Whitney Houston"
+        },
+        
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebf2ac13247b26025069dbdc4e",
+            "artist_name": "Britney Spears"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/df3/10d/a295c21793e7653dc739de0f5755f9f362-mariah-carey.rsquare.w1200.jpg",
+            "artist_name": "Mariah Carey"
+        },
+        {
+            "album_cover_url": "https://i.pinimg.com/originals/02/a2/8c/02a28c162c2f75671c64a905139cbfcc.png",
+            "artist_name": "Harry Styles"
+        },
+        {
+            "album_cover_url": "https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1300/5/1305309.jpg",
+            "artist_name": "Miley Cyrus"
+        },
+        {
+            "album_cover_url": "https://static01.nyt.com/images/2021/10/31/arts/31abba1/31abba1-mediumSquareAt3X.jpg",
+            "artist_name": "ABBA"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b",
+            "artist_name": "Maroon 5"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb019d6873a01987cbe35888cd",
+            "artist_name": "Rihanna"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc1NjQ5MjI4Mzg0MjQ1/gettyimages-628779680.jpg",
+            "artist_name": "Madonna"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eba3de342056c0e1284cbc109d",
+            "artist_name": "Cardi B"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9d3f9efc8e0030306e583cef",
+            "artist_name": "Justin Timberlake"
+        },
+    
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb357f2a87bf92208767a48e7e",
+            "artist_name": "Celine Dion"
+        },
+        {
+            "album_cover_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/halsey-attends-the-2018-american-music-awards-at-microsoft-news-photo-1611768515.?crop=1xw:0.66667xh;center,top&resize=640:*",
+            "artist_name": "Halsey"
+        },
+        {
+            "album_cover_url": "https://cdns-images.dzcdn.net/images/artist/4099da261a61666f58bb3598f0c4c37f/500x500.jpg",
+            "artist_name": "Ava Max"
+        },
+        {
+            "album_cover_url": "https://st1.bollywoodlife.com/wp-content/uploads/2021/06/BTS-BTS-interview.png",
+            "artist_name": "BTS"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c",
+            "artist_name": "Elvis Presley"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMTgyMjU4NjIyMTQ1ODgw/gettyimages-469873772.jpg",
+            "artist_name": "Jennifer Lopez"
+        },
+        {
+            "album_cover_url": "https://pbs.twimg.com/profile_images/1456087873199951874/ysrTwAYq_400x400.jpg",
+            "artist_name": "Demi Lovato"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w1200.jpg",
+            "artist_name": "Post Malone"
+        },
+        {
+            "album_cover_url": "https://www.glamour.pl/media/cache/default_medium/uploads/media/default/0004/65/lana-del-rey-zareczyla-sie-wiedzieliscie-ze-ma-nowego-chlopaka.jpeg",
+            "artist_name": "Lana Del Rey"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb8885ead433869bbbe56dd2da",
+            "artist_name": "Olivia Rodrigo"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebe5a4f8ec6996364b2f824fcb",
+            "artist_name": "Sam Smith"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb654972693e0efed3f3f4d090",
+            "artist_name": "Jason Derulo"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/93a/189/9cca78be3b5d9b05c2a701179449e48027-the-bee-gees.rsquare.w700.jpg",
+            "artist_name": "Bee Gees"
+        },
+        {
+            "album_cover_url": "https://media.vanityfair.com/photos/5e82316b52ad2c00089f5009/1:1/w_1521,h_1521,c_limit/Backstreet-Boys-Coronavirus.jpg",
+            "artist_name": "Backstreet Boys"
+        },
+        {
+            "album_cover_url": "https://i.guim.co.uk/img/media/733f8d96ae5603ed6189855b32684edc46aba932/0_543_1535_920/master/1535.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=046c12be3f539c1de8c2db3d337615b0",
+            "artist_name": "Khalid"
+        },
+        {
+            "album_cover_url": "https://lastfm.freetls.fastly.net/i/u/770x0/97427bc6f9f709a18ca762c47d7d27ec.jpg",
+            "artist_name": "twenty one pilots"
+        },
+
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb6ec3754d5db2e333b9434c75",
+            "artist_name": "P!nk"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb1d3e6633d1da408fc103a9ec",
+            "artist_name": "Rod Stewart"
+        }
+    ],
+
+    "global_music": [
+
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/_fnSo5pFwGb7QJZL6iOTYkHwSJ9yvA16yKZRHUTDodzKTu3kUFu9apc69J8SlP-Q2HUymWy4TNxK4B9mUhubl01d",
+            "artist_name": "Taylor Swift"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTQ3NTI2OTA4NzY5MjE2MTI4/drake_photo_by_prince_williams_wireimage_getty_479503454.jpg",
+            "artist_name": "Drake"
+        },
+        {
+            "album_cover_url": "https://bzglfiles.s3.amazonaws.com/u/337381/7b4e35b810b8d18b7382a60bafb5e485adf66704/original/ds5uxfmh-400x400.jpg",
+            "artist_name": "The Weeknd"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTM5ODkxNzYyODU1NDIwOTM4/ed-sheeran-gettyimages-494227430_1600jpg.jpg",
+            "artist_name": "Ed Sheeran"
+        },
+        {
+            "album_cover_url": "https://st1.bollywoodlife.com/wp-content/uploads/2021/06/BTS-BTS-interview.png",
+            "artist_name": "BTS"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+            "artist_name": "Ariana Grande"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU0OTkwNDUxOTQ5MDUzNDQ3/kanye-west-attends-the-christian-dior-show-as-part-of-the-paris-fashion-week-womenswear-fall-winter-2015-2016-on-march-6-2015-in-paris-france-photo-by-dominique-charriau-wireimage-square.jpg",
+            "artist_name": "Ye"
+        },
+    
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9d1c017f36dc2f651d7f1685",
+            "artist_name": "Wet Leg"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970",
+            "artist_name": "Elton John"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgwNDU4ODM0NjUxNzg0MzQy/gettyimages-1183642471-copy.jpg",
+            "artist_name": "Carrie Underwood"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+            "artist_name": "Bruno Mars"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b",
+            "artist_name": "Maroon 5"
+        },
+        {
+            "album_cover_url": "https://lite-images-i.scdn.co/image/ab67616d0000b273ef6afa1bd957abb59f792b4e",
+            "artist_name": "Pom Pom Squad"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-JeZfqirMgzo5m1TX-DuFvMQ-t500x500.jpg",
+            "artist_name": "Glass Animals"
+        },
+        {
+            "album_cover_url": "https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1300/5/1305309.jpg",
+            "artist_name": "Miley Cyrus"
+        },
+        {
+            "album_cover_url": "https://static.stereogum.com/uploads/2020/11/ACDC-1605114470.jpg",
+            "artist_name": "AC/DC"
+        },
+        {
+            "album_cover_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fleetwood_Mac_Billboard_1977.jpg/640px-Fleetwood_Mac_Billboard_1977.jpg",
+            "artist_name": "Fleetwood Mac"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTgxMDg1MDI3MTkzMzMzMDk2/gettyimages-1127409044.jpg",
+            "artist_name": "Lady Gaga"
+        },
+      
+        {
+            "album_cover_url": "https://www.glamour.pl/media/cache/default_medium/uploads/media/default/0004/65/lana-del-rey-zareczyla-sie-wiedzieliscie-ze-ma-nowego-chlopaka.jpeg",
+            "artist_name": "Lana Del Rey"
+        },
+        {
+            "album_cover_url": "https://photos.bandsintown.com/thumb/11096993.jpeg",
+            "artist_name": "Dry Cleaning"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb6eec77fbe764edd81e34f37a",
+            "artist_name": "Francis of Delirium"
+        },
+        {
+            "album_cover_url": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515030_7806.jpg",
+            "artist_name": "Squid"
+        },
+        {
+            "album_cover_url": "https://static01.nyt.com/images/2021/10/31/arts/31abba1/31abba1-mediumSquareAt3X.jpg",
+            "artist_name": "ABBA"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733ee542b8243a4772cd6190d5",
+            "artist_name": "Kodak Black"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2734931057cec0d2e85751f8e48",
+            "artist_name": "NCT 127"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb39f37a34b404169fdca52dc8",
+            "artist_name": "Arctic Monkeys"
+        },
+        {
+            "album_cover_url": "https://i1.sndcdn.com/avatars-000618724824-op1kk8-t500x500.jpg",
+            "artist_name": "Panic! At The Disco"
+        },
+        {
+            "album_cover_url": "https://cdn.albumoftheyear.org/artists/sq/the-lumineers_1460726524.jpg",
+            "artist_name": "The Lumineers"
+        },
+        {
+            "album_cover_url": "https://www.passionweiss.com/wp-content/uploads/2018/09/bruiser-brigade.jpg",
+            "artist_name": "Bruiser Brigade"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/b89/aa3/80914e6cd1129e48b6fcde411073e058a6-04-adam-levine-tattoos.rsquare.w700.jpg",
+            "artist_name": "Adam Levine"
+        },
+        {
+            "album_cover_url": "https://media.allure.com/photos/5f42721d23bef1617fd1311c/1:1/w_1750,h_1750,c_limit/selena-gomez-rare-lede.jpg",
+            "artist_name": "Selena Gomez"
+        },
+        {
+            "album_cover_url": "https://s3.amazonaws.com/bit-photos/large/11012613.jpeg",
+            "artist_name": "Meet Me at the Altar"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/5fedxGeMA70fBEPVL610UaKUCHmv_1hPsngN3bGpYM4US9tguJqARyfxWY9VYf4SNbTkvyU1sKlRsLa9vgZrz-jU",
+            "artist_name": "The Snuts"
+        },
+        {
+            "album_cover_url": "https://pyxis.nymag.com/v1/imgs/df3/10d/a295c21793e7653dc739de0f5755f9f362-mariah-carey.rsquare.w1200.jpg",
+            "artist_name": "Mariah Carey"
+        },
+        {
+            "album_cover_url": "https://e.snmc.io/i/600/s/533b42a4d2869ae27f5ce6c0ad48646e/8886040/loose-articles-up-the-disco-buses-cover-art.png",
+            "artist_name": "Loose Articles"
+        },
+        {
+            "album_cover_url": "https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2020/12/ONEFOUR.jpg",
+            "artist_name": "Onefour"
+        },
+        {
+            "album_cover_url": "https://lh3.googleusercontent.com/saWQ8Q4sBKvN0Er9izwj_DKLeXoTtYN-wUCBYPSYBFn0DhoKKtxfKBblZJKvN5EIwUQHaSX91NanSjIvMl3LoTtn",
+            "artist_name": "Bad Boy Chiller Crew"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab67616d0000b2733519e507fc1144e4aa913beb",
+            "artist_name": "Florida Georgia Line"
+        },
+        {
+            "album_cover_url": "https://yt3.ggpht.com/rIEDV4fQKzMLE3wgIzHcqabX5rc418TqabPyU3yuJEJhAsprl-3ui7fly__WgOpts0BboHpXZPc=s900-c-k-c0x00ffffff-no-rj",
+            "artist_name": "Tyler, the Creator"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTU0MTU0MTc3NzkzMTA3MzU1/beyonce-attends-tidal-x-1015-on-october-15-2016-in-new-york-city-photo-by-theo-wargogetty-images-for-tidal-sqaure.jpg",
+            "artist_name": "Beyonce"
+        },
+        {
+            "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
+            "artist_name": "Guns N' Roses"
+        },
+        {
+            "album_cover_url": "https://media.gq.com/photos/58a1ab034a441ac67f7645ab/1:1/w_2316,h_2316,c_limit/Grammy_GQ_Portraits-migos-pari.jpeg",
+            "artist_name": "Migos"
+        },
+        {
+            "album_cover_url": "https://yt3.ggpht.com/nYIS3JN4C6HIKP7k-RdHwlkZWX8zSgt0L-DdQBZZPJeu_3P3Z4wvfDEJ4Meu-R6EPW56I7sb=s900-c-k-c0x00ffffff-no-rj",
+            "artist_name": "Dan + Shay"
+        },
+        {
+            "album_cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70pl-gS2EtMU-DnmtJKeTZwudFxbWZKAYBFcKiWo_4UbCEgOxkBcRi_hgIfNxLxvEZD0&usqp=CAU",
+            "artist_name": "AJR"
+        },
+        {
+            "album_cover_url": "https://yhstars.com/wp-content/uploads/2020/10/Blaq-Diamond-e1602591635855.jpeg",
+            "artist_name": "Blaq Diamond"
+        },
+        {
+            "album_cover_url": "https://www.biography.com/.image/t_share/MTU1NDc3Nzc4ODAyNjgxODE1/-katy-perry-attends-the-chanel-haute-couture-fallwinter-2017-2018-show-as-part-of-haute-couture-paris-fashion-week-on-july-4-2017-in-paris-france-photo-by-pascal-le-segretaingetty-images-square.jpg",
+            "artist_name": "Katy Perry"
+        },
+        {
+            "album_cover_url": "https://img.discogs.com/N-w7O3YJZNEd1MTGuZ05Ganf884=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8290242-1458737327-5237.jpeg.jpg",
+            "artist_name": "Linkin Park"
+        },
+        {
+            "album_cover_url": "https://d8mkdcmng3.imgix.net/39c1/home-and-garden-home-decor-signs-and-wall-art-nirvana-smiley-12-inch-album-cover-framed-print.jpg?auto=format&bg=0FFF&fit=fill&h=600&q=100&w=600&s=3c4c9eb861366f3c70cd4347d0e02b93",
+            "artist_name": "Nirvana"
+        }
+    ],
+    "happy_morning_music": [
+
+{
+			"album_cover_url": "https://i.scdn.co/image/ab67616d0000b273e8eddd0df3121e082851df44",
+			"artist_name": "Morning Coffee",
+            "music_description" : "Morning coffee music for your morning coffee"
+		},	
+      {
+         "album_cover_url":"https://i.scdn.co/image/ab67706f00000003e160aee603e912a5ced9ec27",
+         "artist_name":"Good Morning Jazz",
+         "music_description" : "Happy Positive Mood Morning Jazz Music ! Enjoy"
+      },
+       {
+         "album_cover_url":"https://i.scdn.co/image/ab67706c0000bebb9b9ca46ec8083d24972a4c7e",
+         "artist_name":"Morning Vibes",
+         "music_description" : " Morning vibes - Chill mix music morning"
+      },
+       {
+         "album_cover_url":"https://pesni.life/pic/18/95/189506.400x400.jpg",
+         "artist_name":"Relaxing Music",
+          "music_description" : "Relaxing sleep music for deep sleeping and stress relief"
+      },
+      {
+         "album_cover_url":"https://i.scdn.co/image/ab67706c0000bebb971abe81d381a248784fc019",
+         "artist_name":"Wake Up Happy",
+         "music_description" : "Wake Up Happy  - An Indie/Pop/Folk Good Morning"
+      },
+      {
+         "album_cover_url":"https://i.scdn.co/image/ab67616d0000b27350f17409fbcc6745f02d017c",
+         "artist_name":"Lofi",
+         "music_description" : "lofi beats. Purrrr with beats to chill, relax..."
+      }
+	],
+  "africa_music": [
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9050b61368975fda051cdc06",
+      "artist_name": "Wizkid"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb1e6f47b5beb55b52cbece502",
+      "artist_name": "Burna Boy"
+    },
+    {
+      "album_cover_url": "https://i.guim.co.uk/img/media/10470940704403920dd283f0fea8b27bed013eef/0_119_1428_857/master/1428.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5f0c7e45c985064ebcb32cba0751799f",
+      "artist_name": "Davido"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebc0cb9ac631e176caf39c080d",
+      "artist_name": "Diamond Platnumz"
+    },
+    {
+      "album_cover_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Yemi_Alade_2018.jpg",
+      "artist_name": "Yemi Alade"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb7a5cb0635ae49b2f89eba14f",
+      "artist_name": "Fally Ipupa"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eba1249cdde9d1e7b53148fcde",
+      "artist_name": "Tiwa Savage"
+    },
+    {
+      "album_cover_url": "https://cdns-images.dzcdn.net/images/artist/b661618c92c4e40b9b268f7da28f04b1/500x500.jpg",
+      "artist_name": "Sarkodie"
+    },
+    {
+      "album_cover_url": "https://festival-avignon.com/storage/artist/70//6970_angelique_kidjo__c__sonia_and_mauro.jpg",
+      "artist_name": "Kidjo"
+    },
+    {
+      "album_cover_url": "https://www.36ng.ng/wp-content/uploads/2018/09/F29FD415-3D7C-4CD2-B836-0E3232CB792A.jpg",
+      "artist_name": "2Baba"
+    },
+    {
+      "album_cover_url": "https://lh3.googleusercontent.com/cEIot0CkCMXnm_YC6p-7KowLjzCiUm1yC3z0vNqbOhoJdr-MJEKYP19UL8-pp1KLm71o1BASOzE_nAuhrjSVk50VHAsVI07wTw=s1500-pp",
+      "artist_name": "Sho Madjozi"
+    },
+    {
+      "album_cover_url": "http://www.ghafla.com/music/wp-content/uploads/sites/12/2020/04/NASTY-C.jpg",
+      "artist_name": "Nasty C"
+    },
+    {
+      "album_cover_url": "https://pan-african-music.com/wp-content/uploads/2021/07/MasterKG-972.jpg",
+      "artist_name": "Master KG"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebd097fdbe85a171a0483a2611",
+      "artist_name": "Aya Nakamura"
+    },
+    {
+      "album_cover_url": "https://i.guim.co.uk/img/media/bd520a7f77c6a013d92f8b5276649ede2cbbb379/0_387_5084_3049/master/5084.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=29d9f0ba6a19932727b09a16dfe61e3d",
+      "artist_name": "Hugh Masekela"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27319b14b413fc8c33a6dbb6455",
+      "artist_name": "Zuchu"
+    },
+    {
+      "album_cover_url": "https://lh3.googleusercontent.com/7tYNTsz1ZfS0sii5KKaSqmPzDdOghvh3ukcPfvqv12SbvcgAmjPeP1zjl1FOO2Q5E8FRwXPqmrpsQdYoBX6V=s1500-pp",
+      "artist_name": "Cassper Nyovest"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5ebefed75485e89c8d74a0c3d6b",
+      "artist_name": "Don Jazzy"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb1327024aebc4147843653336",
+      "artist_name": "Mafikizolo"
+    },
+    {
+      "album_cover_url": "https://i.scdn.co/image/ab6761610000e5eb9259d4f16bc0e83c70974d04",
+      "artist_name": "Sauti Sol"
+    },
+    {
+      "album_cover_url": "https://cdn.britannica.com/66/200066-050-CAD2B88B/Miriam-Makeba-1969.jpg",
+      "artist_name": "Miriam Makeba"
+    }
+  ]
+	
+
+}

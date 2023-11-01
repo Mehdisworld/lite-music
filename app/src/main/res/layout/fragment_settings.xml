@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:clickable="true"
+    android:paddingTop="@dimen/_11sdp">
+
+    <TextView
+        android:id="@+id/shakeToChange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:text="Shake to Change Song"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/_15sdp" />
+
+    <Switch
+        android:id="@+id/switchShake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/_14sdp"
+        android:backgroundTint="@color/second"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+    <View
+        android:id="@+id/v1"
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:layout_below="@+id/shakeToChange"
+        android:layout_margin="@dimen/_10sdp"
+        android:background="#bdbdbd" />
+
+    <TextView
+        android:id="@+id/additional"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/v1"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:onClick="Setup"
+        android:text="Disabling Pop-Up Notificaitions for Android Oreo and Above Users"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/_15sdp"
+        android:visibility="gone" />
+
+    <View
+        android:id="@+id/v2"
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:layout_below="@+id/additional"
+        android:layout_margin="@dimen/_10sdp"
+        android:background="#808080"
+        android:visibility="gone" />
+
+</RelativeLayout>
+
+
